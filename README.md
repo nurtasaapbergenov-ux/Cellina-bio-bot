@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>BioBot</title>
+  <title>Cellina</title>
+  <style>
+    body { font-family: Arial; max-width: 600px; margin: auto; padding: 20px; }
+    input { width: 80%; padding: 8px; }
+    button { padding: 8px 12px; }
+    #answer { margin-top: 20px; background: #f0f0f0; padding: 10px; border-radius: 5px; }
+  </style>
 </head>
 <body>
   <h2>🧬 BioBot — спроси про биологию</h2>
